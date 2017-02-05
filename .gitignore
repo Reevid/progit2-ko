@@ -2,7 +2,7 @@ output
 .DS_Store
 
 # build artifacts
-progit.html
+#progit.html
 progit.pdf
 progit.pdfmarks
 progit.epub
