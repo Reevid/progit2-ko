@@ -3,9 +3,9 @@ output
 
 # build artifacts
 #progit.html
-progit.pdf
-progit.pdfmarks
-progit.epub
-progit-kf8.epub
-progit.mobi
-/images/
+#progit.pdf
+#progit.pdfmarks
+#progit.epub
+#progit-kf8.epub
+#progit.mobi
+#/images/
